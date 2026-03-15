@@ -3,7 +3,7 @@ import { FrontKickFigure } from '../components/KarateAnimations';
 
 const About = () => {
   const trainers = Array.from({ length: 12 }).map((_, i) => ({
-    name: Sensei ,
+    name: `Sensei ${i + 1}`,
     rank: ['Black', 'Brown', 'Blue'][i % 3],
     years: 5 + i,
   }));
@@ -24,7 +24,7 @@ const About = () => {
         </div>
         <div className="card-3d">
           <h3 style={{ marginTop: 0, color: 'var(--color-text)' }}>Vision</h3>
-          <p style={{ color: '#4a4a5e' }}>Be Asia’s leading futuristic dojo ecosystem for competition and self-mastery.</p>
+          <p style={{ color: '#4a4a5e' }}>Be Asiaï¿½s leading futuristic dojo ecosystem for competition and self-mastery.</p>
         </div>
       </div>
       <SectionHeader title="Trainer Profiles" />
