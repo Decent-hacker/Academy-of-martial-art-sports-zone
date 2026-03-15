@@ -44,7 +44,7 @@ const Footer = () => (
         </div>
       </div>
     </div>
-    <div className="footer-bottom">© 2025 Academy of Martial Arts & Sports Zone | All Rights Reserved</div>
+    <div className="footer-bottom">ï¿½ 2025 Academy of Martial Arts & Sports Zone | All Rights Reserved</div>
   </footer>
 );
 

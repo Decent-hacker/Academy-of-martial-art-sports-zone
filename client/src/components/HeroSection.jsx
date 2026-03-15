@@ -14,10 +14,10 @@ const HeroSection = () => (
         <FrontKickFigure className="large" />
       </div>
       <div className="hero-content">
-        <span className="hero-badge">EST. 2000 • MARTIAL EXCELLENCE</span>
+        <span className="hero-badge">EST. 2000 ï¿½ MARTIAL EXCELLENCE</span>
         <h1 className="hero-title">MASTER THE ART</h1>
         <h2 className="hero-sub">FORGE THE FUTURE</h2>
-        <p className="hero-text">Academy of Martial Arts & Sports Zone – where ancient discipline meets futuristic training.</p>
+        <p className="hero-text">Academy of Martial Arts & Sports Zone ï¿½ where ancient discipline meets futuristic training.</p>
         <div className="hero-ctas">
           <a href="#admission" className="btn-primary">Join Now</a>
           <a href="#courses" className="btn-secondary">Explore Courses</a>
@@ -29,7 +29,7 @@ const HeroSection = () => (
     </div>
     <div className="hero-ticker-bar">
       <div className="hero-ticker-text">
-        ?? BEGINNER BATCH STARTS MARCH 2025 • ?? STATE CHAMPIONS 2024 • ?? 50+ NATIONAL MEDALS • ?? ENROLL NOW: +91-XXXXXXXXXX • ?? BEGINNER BATCH STARTS MARCH 2025 • ?? STATE CHAMPIONS 2024 • ?? 50+ NATIONAL MEDALS • ?? ENROLL NOW: +91-XXXXXXXXXX •
+        ?? BEGINNER BATCH STARTS MARCH 2025 ï¿½ ?? STATE CHAMPIONS 2024 ï¿½ ?? 50+ NATIONAL MEDALS ï¿½ ?? ENROLL NOW: +91-XXXXXXXXXX ï¿½ ?? BEGINNER BATCH STARTS MARCH 2025 ï¿½ ?? STATE CHAMPIONS 2024 ï¿½ ?? 50+ NATIONAL MEDALS ï¿½ ?? ENROLL NOW: +91-XXXXXXXXXX ï¿½
       </div>
     </div>
   </section>

@@ -28,7 +28,7 @@ const Contact = () => {
         </form>
         <div className="card-3d" style={{ padding: 16 }}>
           <h4 style={{ marginTop: 0 }}>Reach Us</h4>
-          <p>Academy of martial arts & sports zone,Bihar sharif</p>
+          <p>Academy of Martial Arts & Sports Zone, Bihar sharif</p>
           <p>+91-98765-12345</p>
           <p>support@amas.zone</p>
           <a className="btn-secondary" href="https://wa.me/919876512345" target="_blank" rel="noreferrer">WhatsApp</a>
