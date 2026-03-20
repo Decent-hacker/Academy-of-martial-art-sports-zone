@@ -33,9 +33,9 @@ const Footer = () => (
       </div>
       <div>
         <h4>Contact</h4>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}><FaMapMarkerAlt color="#3d5afe" /> Neo Dojo Street, Mumbai</div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}><FaPhone color="#3d5afe" /> +91-98765-12345</div>
-        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}><FaEnvelope color="#3d5afe" /> admissions@amas.zone</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}><FaMapMarkerAlt color="#3d5afe" /> Academy of Martial Arts & Sports Zone, Bihar sharif</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}><FaPhone color="#3d5afe" /> ++91 82278 41126</div>
+        <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}><FaEnvelope color="#3d5afe" /> academyof martialart1@gmail.com</div>
         <div className="social-row">
           <FaFacebook color="#3d5afe" />
           <FaInstagram color="#e5000a" />

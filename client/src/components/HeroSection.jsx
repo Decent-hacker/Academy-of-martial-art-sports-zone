@@ -15,7 +15,7 @@ const HeroSection = () => (
       </div>
       <div className="hero-content">
         <span className="hero-badge">EST. 2000 � MARTIAL EXCELLENCE</span>
-        <h1 className="hero-title">MASTER THE ART</h1>
+        <h1 className="hero-title">ACADEMY OF MARTIAL ARTS </h1>
         <h2 className="hero-sub">FORGE THE FUTURE</h2>
         <p className="hero-text">Academy of Martial Arts & Sports Zone � where ancient discipline meets futuristic training.</p>
         <div className="hero-ctas">
